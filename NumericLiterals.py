@@ -15,7 +15,7 @@ print(a, b, c, d, x, y)
 print(y + z)
 
 #String Literals
-z = "Kanha"
+z = "Soumya"
 print(z)
 
 #Boolean Literals
