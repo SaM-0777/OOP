@@ -1,12 +1,12 @@
 #Problem 1
 x = 30
 f = 3.1415926
-Myname = "Soumya Ranjan Sahu"
-RollNo = "20bcs126"
+FirstName = "Soumya"
+LastName = "Ranjan"
 print(x)
 print(f)
-print(Myname)
-combination = Myname + " & " + RollNo
+print(FirstName)
+combination = FirstName + " " + LastName
 print(combination)
 sum = f + f
 print(sum)
