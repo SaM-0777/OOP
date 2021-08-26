@@ -21,8 +21,8 @@ a = b = c = 40
 d = e = 50
 print(a + d)
 Name = name = "Soumya Ranjan Sahu"
-Reg = Roll = 126
-print(Reg, Roll)
+sem = 3
+print(sem)
 print(Name, name)
 
 
