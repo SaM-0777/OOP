@@ -1,5 +1,5 @@
 #Problem 2
-x = "Welcom to OOP Course"
+x = "Welcome to OOP Course"
 print(x)
 print(x[0])
 print(x[1])
