@@ -7,7 +7,7 @@ if gender == "male":
 elif gender == "female":
     print("Cat is female")
 else:
-    print("Cat is gay")
+    print("No Cat Record found...")
 
 x = 3
 if x == 2:
