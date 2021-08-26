@@ -1,10 +1,10 @@
 ##Strings in Python
 
-inst = "IIIT Dharwad"
-print(inst[:])
-print(inst[::])
-print(inst[:3])   ##Print first 3 characters
-print(inst[-2:3])
+str1 = "Python is Easy"
+print(str1[:])
+print(str1[::])
+print(str1[:3])   ##Print first 3 characters
+print(str1[-2:3])
 
 ##Slicing of String in Python
 s = "Computer Science"
@@ -24,4 +24,3 @@ s1 = "Computer"
 s2 = "Science"
 print(s1 * 2)
 print(s1, " " + s2)
-
